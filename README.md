@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# QKTeam-Homepage
-=======
 # QKTeam-HomePage-web
 
 ### 运行
@@ -14,4 +11,3 @@
   ## 构建项目
   npm run build
 ```
->>>>>>> eeb1c9a (init)

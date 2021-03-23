@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-.dist/
-=======
 .dist/
 .idea
 node_modules
->>>>>>> eeb1c9a (init)
