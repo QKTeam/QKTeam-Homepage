@@ -1,13 +1,15 @@
-# QKTeam-HomePage-web
+# umi project
 
-### 运行
+## Getting Started
+
+Install dependencies,
+
 ```bash
-  ## 安装依赖 
-  npm install
+$ yarn
+```
 
-  ## 启动项目
-  npm run start
+Start the dev server,
 
-  ## 构建项目
-  npm run build
+```bash
+$ yarn start
 ```
